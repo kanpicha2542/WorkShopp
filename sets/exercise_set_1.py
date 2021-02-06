@@ -12,6 +12,7 @@ for x in cafe_ao_udom_set:
 # 2.จงเขียนคำสั่งเพื่อเพิ่มค่าใน cafe_ao_udom_set โดยเพิ่ม "Baannom" ลงไป
 cafe_ao_udom_set.add("Baannom")
 print(cafe_ao_udom_set)
+
 # 3.จงเขียนคำสั่งเพื่ออัพเดตค่าใน cafe_ao_udom_set โดยให้อัพเดต set ของ {"SaiNom's", "COFFEE DOE"} ในตัวแปร cafe_ao_udom_set
 set = {"SaiNom's", "COFFEE DOE"}
 cafe_ao_udom_set.update(set)
